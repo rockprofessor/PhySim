@@ -22,3 +22,12 @@ verfügbar ist.
 - [vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
 - [vimadventures](https://vim-adventures.com/)
 - [Browser Plugin](https://vimium.github.io/)
+
+## Manim
+
+Manim ist eine Python-Bibliothek, die es ermöglicht, mathematische und
+physikalische Konzepte visuell darzustellen. Sie wird häufig für die Erstellung
+von Animationen und Erklärvideos verwendet. Manim steht für "Mathematical
+Animation Engine".
+
+- [Manim Community](https://www.manim.community/)
