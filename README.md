@@ -18,10 +18,7 @@ verfügbar ist.
 
 ### Links
 
-[vim-hero.com](https://vim-hero.com/)
-
-[vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
-
-[vimadventures§](https://vim-adventures.com/)
-
-[Browser Plugin](https://vimium.github.io/)
+- [vim-hero.com](https://vim-hero.com/)
+- [vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
+- [vimadventures§](https://vim-adventures.com/)
+- [Browser Plugin](https://vimium.github.io/)
